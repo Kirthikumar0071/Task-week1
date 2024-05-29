@@ -1,0 +1,23 @@
+.red{
+    background-color: pink;
+    color: black;
+    text-align: center;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+.one{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 330px;
+    text-align: center;
+    border: solid black 5px;
+    border-radius: 10px;
+}
+p{
+    border:solid white 2px;
+    border-radius: 5px;
+    padding: 15px;
+}
